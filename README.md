@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Richard Benitez
 - 👀 I’m interested in work in software area
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning some languages 
 - 📫 How to reach me 829-212-9892
 
 <!---
